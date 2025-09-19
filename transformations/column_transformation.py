@@ -1,4 +1,4 @@
-def add_cloumns(df):
+def add_columns(df):
     column_names = {
         '_c0':'payment_id','_c1':'order_id',
         '_c2':'payment_date','_c3':'payment_status',
